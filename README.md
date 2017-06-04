@@ -100,3 +100,6 @@
 支付宝 | 微信
 ------|------
 ![](./public/alipay.png) | ![](./public/wechat.jpeg)
+
+
+[Nodejs开发框架Express3.0开发手记–从零开始](http://blog.fens.me/nodejs-express3/)
